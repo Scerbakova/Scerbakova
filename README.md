@@ -9,6 +9,7 @@
 * ⚛️ Redux
 * 🍍 Pinia
 * ✔️ VUE
+* Angular
 
 ## Examples of Work:
 
