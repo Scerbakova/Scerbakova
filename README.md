@@ -1,5 +1,5 @@
 # Hello ✋
-# I am Regina, Front-End Developer. I really enjoy to learn something new end develop my coding skills.
+# I am Regina, Front-End Developer. Here you can find my beginner level personal projects where I was learning some new framework or new languages.
 
 ## I have experience with:
 <div align="center">
