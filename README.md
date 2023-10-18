@@ -33,7 +33,6 @@
 ## Latest projects:
 
 ### repository: https://github.com/Scerbakova/angular-digital-agency
-### site: https://stupendous-jelly-1f0ebd.netlify.app/home
 <div align="center">
 <img src="https://user-images.githubusercontent.com/97510856/188856021-5625894a-7a88-4ece-a86b-66dcd967666b.png" width="720">
 </div>
@@ -41,7 +40,6 @@
 <hr width="100%"></hr>
   
 ### repository: https://github.com/Scerbakova/loans-app
-### site: https://jade-arithmetic-4464db.netlify.app/
 <div align="center">
 <img src="https://user-images.githubusercontent.com/97510856/188857276-bd5b7200-1657-45ca-958e-0ee7073991b3.png" width="720">
 </div>
@@ -49,7 +47,6 @@
 <hr width="100%"></hr>
 
 ### repository: https://github.com/Scerbakova/todo-composition-vuex
-### site: https://classy-nasturtium-6c7906.netlify.app/
 <div align="center">
 <img src="https://user-images.githubusercontent.com/97510856/188859687-d3bb6d23-cbb5-42bf-91b5-8b09e9add648.png" width="720">
 </div>
