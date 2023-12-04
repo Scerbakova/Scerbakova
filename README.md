@@ -40,6 +40,8 @@
 <img src="https://github.com/Scerbakova/Scerbakova/assets/97510856/a4a7f328-6250-4038-8e84-c3ed81ef9620" width="720">
 </div>
 
+<hr width="100%"></hr>
+
 ### repository: https://github.com/Scerbakova/products-for-chili-labs-fe
 
 
