@@ -37,7 +37,7 @@
 ### web: https://imaginative-speculoos-5436f8.netlify.app/
 
 <div align="center">
-<img src="https://github.com/Scerbakova/Scerbakova/assets/97510856/a4a7f328-6250-4038-8e84-c3ed81ef9620" width="720">
+<img src="https://github.com/Scerbakova/Scerbakova/assets/97510856/fd1dc542-0a6e-4c96-a6e4-0b4f88d71dd7" width="720">
 </div>
 
 <hr width="100%"></hr>
